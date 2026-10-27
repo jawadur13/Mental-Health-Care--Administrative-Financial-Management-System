@@ -1,4 +1,4 @@
-🏥 Mental Health Care Administrative & Financial Management System (MHC-AFMS)
+🏥 Mental Health Care Administrative & Financial Management System (MHC-AFMS) 
 📌 Project Overview
 
 The Mental Health Care Administrative & Financial Management System (MHC-AFMS) is a web-based application designed to manage mental healthcare operations efficiently. It supports appointment booking, doctor scheduling, medical records, billing, and payment management with role-based access control.
